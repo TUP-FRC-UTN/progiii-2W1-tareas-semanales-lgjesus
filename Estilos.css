@@ -1,0 +1,25 @@
+﻿body
+{
+    background-color: rgb(233, 243, 240);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+table
+{
+    border: 1px solid black;
+    background-color:rgb(172, 146, 197);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif rgb(141, 0, 0);
+}
+th
+{
+background-color: rgb(207, 164, 231);
+}
+tr
+{
+background-color: beige;
+}
